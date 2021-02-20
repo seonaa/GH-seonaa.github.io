@@ -2,7 +2,7 @@
 
 # Import the theme
 remote_theme: jekyll-theme-chirpy
-plugins: gem
+plugins: jekyll
 source: .
 destination: ./_site
 plugins_dir: _plugins
