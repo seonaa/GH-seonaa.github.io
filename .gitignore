@@ -8,4 +8,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+### IntelliJ ###
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/jekyll
