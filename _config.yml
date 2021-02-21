@@ -1,5 +1,5 @@
 title: Junior World
-iconURL: assets/default-icon.png
+iconURL: assets/Dobby.png
 theme: jekyll-theme-leaf
 
 # for a clean URL
@@ -7,12 +7,12 @@ permalink: :slug
 
 social:
   twitter: _SupunKavinda
-  github: SupunKavinda
+  github: seonaa
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
 ### comments & analytics
-hyvor_talk_website_id: 14
+hyvor_talk_website_id: 3290
 google_analytics: UA-NNNNNNNN-N
