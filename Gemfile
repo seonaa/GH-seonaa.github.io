@@ -7,7 +7,7 @@ gemspec
 group :test do
   gem "html-proofer", "~> 3.18"
   gem "jekyll", "~> 3.8.5"
-  gem "github-pages", "~> 202", group: :jekyll_plugins
+  gem "github-pages", "202", group: :jekyll_plugins
 end
 
 group :jekyll_plugins do
