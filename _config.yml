@@ -7,7 +7,7 @@ permalink: :slug
 
 social:
   twitter: _SupunKavinda
-  github: https://github.com/seonaa/
+  github: seonaa
 
 plugins:
  - jekyll-feed
