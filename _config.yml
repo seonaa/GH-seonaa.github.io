@@ -6,7 +6,7 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
+  twitter:
   github: seonaa
 
 plugins:
